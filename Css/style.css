@@ -27,3 +27,14 @@ div > p {
 span {
     font-family:cursive;
 }
+
+
+footer {
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: smaller;
+    color: rgb(3, 19, 71);
